@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "2022-Python_DT_Study", "2022-Python_DT Study\2022-Python_DT_Study.pyproj", "{F326D2A5-060D-4BDC-BD21-8D87603FAFD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F326D2A5-060D-4BDC-BD21-8D87603FAFD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F326D2A5-060D-4BDC-BD21-8D87603FAFD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5A7E06C-8B10-41E4-907C-028F4865A69F}
+	EndGlobalSection
+EndGlobal
