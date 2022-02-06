@@ -5,7 +5,7 @@
     <ProjectGuid>f326d2a5-060d-4bdc-bd21-8d87603fafd6</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>Py2-1 Data processing.py</StartupFile>
+    <StartupFile>2.데이터 표현,가공\Py2-1 Data processing.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,11 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Py2-1 Data processing.py" />
+    <Compile Include="2.데이터 표현,가공\Py2-1 Data processing.py" />
+    <Compile Include="2.데이터 표현,가공\Py2-2 Life Data Using.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="2.데이터 표현,가공\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
